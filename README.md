@@ -18,14 +18,17 @@ to install cowsay, we can use:
 
 ⚡To display a rainbow-colored text:
 
+for this need install package:lolcat: Since lolcat is a Ruby gem, we can install it via RubyGems:
+      
+      #sudo yum install ruby
+      #sudo gem install lolcat
+
+command:
+
      #echo "Hi, I am pratik shinde from DevOps world !!!"  | lolcat
 
 ![Screenshot 2024-04-04 151601](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/a2255471-bedb-454d-9428-9852dbd384cd)
 
- for this need install package:lolcat: Since lolcat is a Ruby gem, we can install it via RubyGems:
-      
-      #sudo yum install ruby
-      #sudo gem install lolcat
       
 ⚡
 
