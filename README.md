@@ -1,6 +1,9 @@
 # Linux-Fun-commands
 "Exploring the Fun Side of Linux: A Journey Through Entertaining Terminal Commands" 
 
+![image](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/f6ed21dc-3f30-46b7-8089-5a4155273c6f)
+
+
 Install Required Packages:
 
 If any of the fun commands are not already installed on our Amazon Linux instance, we can use the package manager yum to install them. For example,
