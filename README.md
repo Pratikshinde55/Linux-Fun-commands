@@ -50,6 +50,9 @@ command:
 ![linux-fun2](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/31d85e3f-37cb-4a8f-a4f8-66a39ad83ed1)
 
 
+⚡
+
+
 
 
 
