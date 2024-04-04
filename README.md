@@ -79,6 +79,17 @@ command:
     # sl -F
 
 
+⚡ cmatrix: Add the Matrix effect:
+
+    #sudo apt install cmatrix
+    #cmatrix
+
+
+⚡ xeyes: eye watching 
+
+   #sudo apt install x11-apps
+   #xeyes
+
 
 
 
