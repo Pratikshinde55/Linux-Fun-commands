@@ -60,6 +60,23 @@ command:
 
 ![linux-fun-3](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/3f578534-336d-46eb-bf3e-9cd52b8fc595)
 
+⚡fortune, which displays a random, hopefully interesting, adage or fortune:
+
+    #sudo yum install fortune-mod
+    #fortune
+
+⚡figlet to generate ASCII art from text:
+
+    #sudo yum install figlet
+    #figlet "Hello, world!"
+
+
+
+
+
+
+
+
 
 
 
