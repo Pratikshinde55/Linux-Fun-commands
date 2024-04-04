@@ -40,6 +40,9 @@ command:
 
     # yes "hey I am Pratik !"
 
+![linux-fun](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/48a9299b-3db7-4efe-a1f1-a064da1559d3)
+
+
 
 
 
