@@ -87,8 +87,8 @@ command:
 
 ⚡ xeyes: eye watching 
 
-   #sudo apt install x11-apps
-   #xeyes
+    #sudo apt install x11-apps
+    #xeyes
 
 
 
