@@ -69,6 +69,13 @@ command:
     #figlet "Hello, world!"
 
 
+⚡The sl command is a fun utility that displays a steam locomotive animation in your terminal. It's a humorous take on the common mistype of sl instead of ls:
+
+    # sudo apt install sl
+    # sl
+    # sl -F
+
+
 
 
 
