@@ -1,7 +1,7 @@
 # Linux-Fun-commands
 "Exploring the Fun Side of Linux: A Journey Through Entertaining Terminal Commands" 
 
-🌟sst-up: i used aws cloud "amazon linux" ami for instance , in this i run linux commands.
+🌟sst-up: i used aws cloud "amazon linux" / ubuntu ami for instance , and also use docker container in this i run linux commands.
 
 Install Required Packages:
 
@@ -36,7 +36,10 @@ command:
 
 ![Screenshot 2024-04-04 152849](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/1444e7cd-e359-44f6-af10-dcf4fdb35058)
 
-⚡
+⚡yes: Prints a continuous stream of "y" or any other specified string:
+
+    # yes "hey I am Pratik !"
+
 
 
 
