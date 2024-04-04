@@ -3,6 +3,8 @@
 
 ![image](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/f6ed21dc-3f30-46b7-8089-5a4155273c6f)
 
+Note: I run this command on different amazon ami (amazon linux 2, ubantu, docker container)
+
 
 Install Required Packages:
 
