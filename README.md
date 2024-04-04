@@ -16,4 +16,18 @@ to install cowsay, we can use:
 
 ![Screenshot 2024-04-04 150736](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/db5be2df-1a65-474e-9f4b-fa9c2ca25f3d)
 
+To display a rainbow-colored text:
+
+     #echo "Hi, I am pratik shinde from DevOps world !!!"  | lolcat
+
+![Screenshot 2024-04-04 151601](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/a2255471-bedb-454d-9428-9852dbd384cd)
+
+for this need install package:
+
+      #sudo gem install lolcat
+
+     
+
+
+
 
