@@ -43,6 +43,16 @@ command:
 ![linux-fun](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/48a9299b-3db7-4efe-a1f1-a064da1559d3)
 
 
+⚡rev: Reverses lines character-wise.
+
+    #echo "HI, Pratik !" | rev
+
+![linux-fun2](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/31d85e3f-37cb-4a8f-a4f8-66a39ad83ed1)
+
+
+
+
+
 
 
 
