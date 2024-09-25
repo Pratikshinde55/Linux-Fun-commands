@@ -27,7 +27,7 @@ For this need install package:lolcat: Since lolcat is a Ruby gem, we can install
 
 Command:
     
-    echo "Hi, I am pratik shinde from DevOps world !!!"  | lolcat
+     echo "Hi, I am pratik shinde from DevOps world !!!"  | lolcat
 
 ![Screenshot 2024-04-04 151601](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/a2255471-bedb-454d-9428-9852dbd384cd)
 
@@ -39,13 +39,13 @@ Command:
 
 ### yes: Prints a continuous stream of "y" or any other specified string:
    
-   yes "hey I am Pratik !"
+    yes "hey I am Pratik !"
 
 ![linux-fun](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/48a9299b-3db7-4efe-a1f1-a064da1559d3)
 
 ### rev: Reverses lines character-wise.
    
-   echo "HI, Pratik !" | rev
+    echo "HI, Pratik !" | rev
 
 ![linux-fun2](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/31d85e3f-37cb-4a8f-a4f8-66a39ad83ed1)
 
