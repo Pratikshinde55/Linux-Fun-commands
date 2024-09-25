@@ -33,7 +33,7 @@ Command:
 
 ### cowsay -f stegosaurus: Displays a stegosaurus instead of a cow:
    
-   cowsay -f stegosaurus "Hello,i am ps !"
+    cowsay -f stegosaurus "Hello,i am ps !"
 
 ![Screenshot 2024-04-04 152849](https://github.com/Pratikshinde55/Linux-Fun-commands/assets/145910708/1444e7cd-e359-44f6-af10-dcf4fdb35058)
 
